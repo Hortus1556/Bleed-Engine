@@ -1,0 +1,17 @@
+build/
+build-*/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+*.pdb
+.vs/
+.vscode/
+__pycache__/
+*.pyc
